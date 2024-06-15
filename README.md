@@ -15,4 +15,4 @@ In the third phase of the aforesaid method, consider what the SSD face detector 
 
 It is used to detect things inside a picture. Using a basic VGG-16 architecture, the SSD can outperform other object detectors such as YOLO and Faster R-CNN in terms of speed and accuracy.
 
-Link for the Dataset: https://drive.google.com/drive/folders/1-0woJxllIkk6r73TCEtrZE3aDfSbC_N_?usp=sharing
+Dataset link: https://drive.google.com/drive/folders/1-0woJxllIkk6r73TCEtrZE3aDfSbC_N_?usp=sharing
